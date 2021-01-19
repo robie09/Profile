@@ -1,0 +1,63 @@
+
+#name{
+    font-family:monospace;
+    color: blueviolet;
+    font-weight: bold;
+}
+.t {
+    padding: 15px;
+    color:darkred;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .dev{
+      font-family: sans-serif;
+      color:crimson;
+  }
+  
+body {
+   background-color: cyan;
+        background-image: url('Programming-Wallpapers-34-1600-x-900.jpg');
+        background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;
+    
+    }
+
+h1 {
+    color:#0000EE;
+}
+.ul{
+    color:crimson 
+}
+.td{
+    color:crimson ;
+    font-family: Impact;
+}
+
+h3{
+
+    color: red;
+    font-family:'Lucida Sans';
+    font-weight: 800;
+    font-size: 25;
+    
+
+    font-size: medium;
+}
+
+
+.study{
+
+    font-style: italic;
+
+}
+.bh{
+    text-align: left;
+}
+
+#img {
+    
+  border-color: black;  
+  border-width: 0.5em;  
+  border-style: double;  
+  }
